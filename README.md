@@ -8,3 +8,5 @@
 Hola, soy estudiante de segundo curso de ASIR.
 En este repositorio iré subiendo las practicas del modulo de Git y GitHub.
 Me interesa especialmente la administracion de sistemas y la automatizacion.
+
+#seccion de objetivos
